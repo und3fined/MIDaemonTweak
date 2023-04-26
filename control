@@ -1,9 +1,9 @@
-Package: daniel.midaemontweak
+Package: dev.und3fy.midaemontweak
 Name: MIDaemonTweak
 Depends: mobilesubstrate
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Allow iPad app installation, disable code sign enforcement, skip thinning check
-Maintainer: daniel
+Maintainer: und3fined
 Author: daniel
 Section: Tweaks
